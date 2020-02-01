@@ -1,1 +1,1 @@
-# java_mvc_lab
+# java_hibernate_lab
